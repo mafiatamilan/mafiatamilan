@@ -7,15 +7,15 @@ Ntg !!
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Epic-Ghost&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Spooky-creator&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Epic-Ghost&&show_icons=true&theme=midnight-purple" alt="MrMKN"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Spooky-creator&&show_icons=true&theme=midnight-purple" alt="Spooky"/></p>        
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic-Ghost&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spooky-creator&layout=compact&theme=tokyonight" align="center">
 
 ## 🏆 ***GitHub Trophies***
 ![](https://github-profile-trophy.vercel.app/?username=Epic-Ghost&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -24,4 +24,4 @@ Used Languages
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Epic-Ghost&icon=10&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Spooky-creator&icon=10&color=12)](https://visitcount.itsvg.in)
