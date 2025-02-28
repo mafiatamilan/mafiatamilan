@@ -7,15 +7,15 @@ Ntg !!
 
 # 📊 GitHub Stats:
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=Spooky-creator&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=mafiatamilan&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Spooky-creator&&show_icons=true&theme=midnight-purple" alt="Spooky"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mafiatamilan&&show_icons=true&theme=midnight-purple" alt="Spooky"/></p>        
  
 <p align="center">
 Used Languages 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spooky-creator&layout=compact&theme=tokyonight" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafiatamilan&layout=compact&theme=tokyonight" align="center">
 
 ## 🏆 ***GitHub Trophies***
 ![](https://github-profile-trophy.vercel.app/?username=Epic-Ghost&theme=radical&no-frame=false&no-bg=false&margin-w=4)
